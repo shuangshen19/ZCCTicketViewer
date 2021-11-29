@@ -1,0 +1,4 @@
+basic test - viewSingle - the chosen ticket is in the database
+cmd:
+viewSingle
+2
