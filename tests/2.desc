@@ -1,0 +1,4 @@
+basic test - viewSingle - the chosen ticket is not in the database
+cmd:
+viewSingle
+g
