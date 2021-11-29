@@ -46,4 +46,4 @@ Built a ticket viewer accomplishing below objectives using python and displayed 
 * Implement on Python3.6 (Windows 10)
 
 # Author
-* Shuang-Shuang Shen (Sunny Shen) 
+* Shuang-Shuang Shen (Sunny Shen)
