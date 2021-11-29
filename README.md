@@ -11,7 +11,7 @@ Built a ticket viewer accomplishing below objectives using python and displayed 
 * Page through tickets when more than 25 are returned
 
 ## Usages:
-* Run `./main.py` to start an interactive shell
+* Run `python3 main.py` to start an interactive shell
 * Below is the command list for the shell
   
 <table>
